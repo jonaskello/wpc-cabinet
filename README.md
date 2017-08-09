@@ -7,7 +7,7 @@ To view the model download the [Sketchup Viewer](https://www.sketchup.com/produc
 
 The sketchup file is [here](https://github.com/jonaskello/wpc-cabinet/archive/0.1.0.zip). You need to unzip it and find the file `wpc_cabinet.skp` and open it in Sketchup or the viewer.
 
-If you find any mistakes in the model or the information below please open a [new issue](https://github.com/jonaskello/wpc-cabinet/issues/new).
+If you find any mistakes in the model or the information below please open a [new issue](https://github.com/jonaskello/wpc-cabinet/issues/new) or make a post in this [thread](http://vpuniverse.com/forums/topic/3281-wpc-standard-body-sketchup/).
 
 Here is a screenshot from the model:
 
