@@ -1,4 +1,4 @@
-# used to remove files from deployment using `git archive`
+# used to remove files from the release
 # git files
 .gitattributes export-ignore
 .gitignore export-ignore
