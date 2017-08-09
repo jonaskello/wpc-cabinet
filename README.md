@@ -37,6 +37,10 @@ Below is a picuture of a lock mitre joint:
 
 About lock mitre joints, see this [image](references/mitre-lock-joint.jpeg) from this [thread](https://pinside.com/pinball/forum/topic/peanuts-pinball). Also see [this image](http://pinballmakers.com/wiki/index.php/File:Mitre-bit.png) from this [page](http://pinballmakers.com/wiki/index.php/Construction). And [this page](https://howtobuildapinballmachine.wordpress.com/tag/miter-lock/) has some more information.
 
+## Backbox Joints
+
+The backbox joints should be according to the model.
+
 # Components
 
 ## Cabinet Left/Right Side
