@@ -3,7 +3,7 @@
 
 This repo contains a sketchup model of a pinball cabinet in standard WPC body style and related information. I did this model to have a starting point for designing a virtual pinball cabinet.
 
-The sketchup file is [here](https://github.com/jonaskello/wpc-cabinet/archive/0.1.0.zip). You need to unzip it and find the file WPC_Cabinet.skp and open it in Sketchup.
+The sketchup file is [here](https://github.com/jonaskello/wpc-cabinet/archive/0.1.0.zip). You need to unzip it and find the file `wpc_cabinet.skp` and open it in Sketchup or the viewer.
 
 To view the model download the [Sketchup Viewer](https://www.sketchup.com/products/sketchup-viewer). To edit the model download [Sketchup Make](https://www.sketchup.com/download?sketchup=make). Both these tools are free.
 
